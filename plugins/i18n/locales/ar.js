@@ -1,0 +1,20 @@
+export default {
+  Home: 'الصفحة الرئيسيه',
+  Contact: 'تواصل معنا',
+  CountryName: 'أسم الدولة',
+  OfficialName: 'الرسمية',
+  Currencies: 'العملات',
+  FirstName: 'الاسم الاول',
+  LastName: 'الاسم الاخير',
+  Email: 'الايميل',
+  PhoneNumber: 'رقم الهاتف',
+  Country: 'الدولة',
+  Message: 'الرسالة',
+  isRequired: 'مطلوب',
+  must10Characters: 'يجب أن يكون أقل من 10 أحرف',
+  mustValid: 'يجب أن تكون صالحة',
+  must7Digits: 'يجب أن يكون أكثر من 7 أرقام',
+  Submit: 'ارسال',
+  Thanks: 'شكرا لك! تم إرسال رسالتك في',
+  TimeZone: 'المنطقة الزمنية هي'
+}
